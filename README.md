@@ -8,5 +8,5 @@ Gwen Kathleen P. Roco - gwen_roco@dlsu.edu.ph</br>
 Nathan Immanuel C. Sang - nathan_sang@dlsu.edu.ph</br>
 
 ## Advisers
-Brian Paul S. Samson - briane.samson@dlsu.edu.ph
+Brian Paul S. Samson - briane.samson@dlsu.edu.ph</br>
 Unisse C. Chua - unisse.chua@dlsu.edu.ph
